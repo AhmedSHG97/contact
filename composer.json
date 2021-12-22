@@ -1,0 +1,17 @@
+{
+    "name": "ahmedlaravel/contactpkg",
+    "description": "package to contact",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\Contact\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "AhmedLaravel",
+        "email": "ahmed2012ramadan@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {}
+}
