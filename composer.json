@@ -8,6 +8,13 @@
             "Laravel\\Contact\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laravel\\Contact\\ContactServiceProvider"
+            ]
+        }
+    },
     "authors": [{
         "name": "AhmedLaravel",
         "email": "ahmed2012ramadan@gmail.com"
